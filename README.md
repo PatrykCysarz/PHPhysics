@@ -1,1 +1,3 @@
 # PHPhysics
+
+![Demo](demo.png)
