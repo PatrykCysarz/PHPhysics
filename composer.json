@@ -1,0 +1,9 @@
+{
+  "name": "patrykcysarz/phphysics",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "PHPhysics\\": "src/"
+    }
+  }
+}
